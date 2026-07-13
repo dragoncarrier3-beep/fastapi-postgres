@@ -65,6 +65,7 @@ db.sqlite3-journal
 
 # Flask stuff:
 instance/
+temp_auto_push.bat
 .webassets-cache
 
 # Scrapy stuff:
@@ -131,4 +132,5 @@ dmypy.json
 .ruff_cache
 
 # Pyre type checker
-.pyre/
+.pyre/.gitignore
+branch_structure.json
